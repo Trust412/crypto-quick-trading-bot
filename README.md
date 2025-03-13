@@ -46,7 +46,6 @@ Create a `.env` file in the root directory:
 
 ```env
 DATABASE_URL="your-database-url"
-NEXTAUTH_SECRET="your-secret"
 NEXTAUTH_URL="http://localhost:3000"
 ```
 
